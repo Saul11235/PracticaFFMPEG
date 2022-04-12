@@ -1,4 +1,12 @@
 *.pyc
 *.swp
+pycache
 
-Resultado.mp4
+Salida.mp4
+Salida.ogg
+Salida.flv
+Salida.mp3
+Salida.png
+Salida.jpeg
+Salida.bmp
+Salida.gif
