@@ -24,6 +24,8 @@ choco install ffmpeg
 verificar que se puedan usar los comandos:
 
   > **ffmpeg  :** Para manipular archivos multimedia.
+
   > **ffplay  :** Para reproducir archivos multimedia.
+
   > **ffprobe :** FInalmente para obtener informacion de archivos multimedia.
 
